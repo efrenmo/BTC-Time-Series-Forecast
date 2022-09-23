@@ -1,5 +1,8 @@
 # Bitcoin Time Series Forecasting Using Prophet Algorithm 
 
+** At the moment experiencing difficulties rendering some charts on github and nbviewer. Working on it.
+
+
 In this notebook I'll use Prophet time series forecasting algorithm to attempt to forecast Bitcoin's price for the next thrirty days.
 
 Prophet is an open source forecasting package that was developed by Facebook’s data science research team. The procedure for forecasting time series data is based on an univariate additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
