@@ -19,9 +19,12 @@ Trading Volume: $27,851,916,129 USD
 
 Current Price: $20,000 USD per unit
 
+<br>
 
-You can find two jupyter notebooks in this repository. Both have the exact same content. The only differences are:
+You will find two jupyter notebooks in this repository. Both have the exact same content. The only differences are:
 
-BTC_Time Series_Forecast.ipynb : Configured so that the plotly charts render on nbviewer. You can check it out [here](https://nbviewer.org/github/efrenmo/Forecasting_BTC_with_Prophet/blob/77f599770ee2602055edc932d0758dadd00f78cc/BTC_Time%20Series_Forecast.ipynb)
+<br>
 
-Bitcoin Time Series Forecast.ipynb: Configured so that the plotly charts render on google colaboratory notebook only. 
+[**BTC_Time Series_Forecast.ipynb :**](https://nbviewer.org/github/efrenmo/Forecasting_BTC_with_Prophet/blob/77f599770ee2602055edc932d0758dadd00f78cc/BTC_Time%20Series_Forecast.ipynb) Configured so that the plotly charts render on nbviewer. You can check it out [here.](https://nbviewer.org/github/efrenmo/Forecasting_BTC_with_Prophet/blob/77f599770ee2602055edc932d0758dadd00f78cc/BTC_Time%20Series_Forecast.ipynb)
+
+**Bitcoin Time Series Forecast.ipynb:** Configured so that the plotly charts render on google colaboratory notebooks only. 
